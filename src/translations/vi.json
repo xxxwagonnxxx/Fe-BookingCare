@@ -34,6 +34,9 @@
             "manage-specialty": "Quản lý chuyên khoa",
             "handbook": "Cẩm nang",
             "manage-handbook": "Quản lý cẩm nang"
+        },
+        "doctor": {
+            "manage-schedule": "Quản lý kế hoạch khám bệnh"
         }
     },
     "manage-user": {
@@ -50,5 +53,15 @@
         "image": "Ảnh",
         "save": "Lưu người dùng",
         "edit": "Lưu thay đổi"
+    },
+    "homepage": {
+        "outstanding-doctor": "Bac si noi bat tuan qua",
+        "more-infor": "Xem them"
+    },
+    "manage-schedule": {
+        "title": "Quan ly ke hoach kham benh cua bac si",
+        "choose-doctor": "Chon bac si",
+        "choose-date": "Chon ngay",
+        "save-infor": "Luu thong tin"
     }
 }

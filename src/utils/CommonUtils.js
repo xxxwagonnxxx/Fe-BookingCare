@@ -1,5 +1,5 @@
 class CommonUtils {
-
+    // convert anh qua base64
     static getBase64(file) {
         return new Promise((resolve, reject) => {
             const reader = new FileReader();
