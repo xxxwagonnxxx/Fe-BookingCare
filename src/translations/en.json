@@ -36,7 +36,8 @@
             "manage-handbook": "Manage Handbook"
         },
         "doctor": {
-            "manage-schedule": "Manage Doctor's schedule"
+            "manage-schedule": "Manage Doctor's schedule",
+            "manage-patient": "Manage Doctor's patient"
         }
     },
     "manage-user": {
@@ -56,12 +57,59 @@
     },
     "homepage": {
         "outstanding-doctor": "Last week's Featured Doctor",
-        "more-infor": "More Infor"
+        "more-infor": "More Infor",
+        "specialty-popular": "Popular Specialties"
     },
     "manage-schedule": {
         "title": "Manage doctor's examination plan",
         "choose-doctor": "Choose doctor",
         "choose-date": "Choose date",
         "save-infor": "Save infor"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Schedule",
+            "no-schedule": "The doctor does not have appoiment",
+            "choose": "choose ",
+            "book-free": "and book(free)"
+        },
+        "extra-infor-doctor": {
+            "text-address": "Address of examination",
+            "price": "Examination price: ",
+            "detail": "See detail",
+            "payment": "The patient can pay the cost in the form of: ",
+            "hide-price": "Hide price list"
+        },
+        "booking-modal": {
+            "title": "Information to hook a medical appointment",
+            "fullName": "FullName",
+            "phoneNumber": "Phone Number",
+            "email": "Email",
+            "address": "Address",
+            "reason": "Reasons for medical examination",
+            "birthday": "Date of birth",
+            "gender": "Genders",
+            "btnConfirm": "Confirm",
+            "btnCancel": "Cancel",
+            "priceBooking": "Free booking",
+            "price": "Price"
+        }
+    },
+    "admin": {
+        "manage-doctor": {
+            "title": "Create more information doctor",
+            "select-doctor": "Select doctor",
+            "intro": "Introduction",
+            "add": "Create infor",
+            "save": "Save infor",
+            "price": "Price",
+            "payment": "Payment",
+            "province": "Province",
+            "nameClinic": "Clinic's name",
+            "addressClinic": "Clinic's name",
+            "note": "Note",
+            "speciality": "Specialty",
+            "select-clinic": "Clinic"
+        }
     }
 }
